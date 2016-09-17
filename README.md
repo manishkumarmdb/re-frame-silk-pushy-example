@@ -1,4 +1,4 @@
-# silk-pushy-reframe-example
+# re-frame-silk-pushy-example
 
 In this project example i used boot template.
 
